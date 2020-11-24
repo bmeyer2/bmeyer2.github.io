@@ -13,7 +13,10 @@ var appShellFiles = [
   'icons/icon-192.png',
   'icons/icon-256.png',
   'icons/icon-512.png',
-  'icons/maskable_icon.png'
+  'icons/maskable_icon.png',
+  '/lignes',
+  '/stations',
+  'manifest.js'
 ];
 
 self.addEventListener('install', (e) => {
